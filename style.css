@@ -6,3 +6,46 @@
 .font-bangla {
     font-family: "Hind Siliguri", sans-serif;
 }
+
+.left-content {
+  max-width: 550px;
+}
+
+.form-box {
+  margin-top: 20px;   /* adjust this value */
+}
+
+.form-box {
+      width: 300px;
+      padding: 25px;
+      background: #ffffff;
+      border-radius: 6px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    }
+
+ .form-box input {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 12px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 14px;
+    }
+
+.form-box button {
+      width: 100%;
+      padding: 10px;
+      background: #4f46e5;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+.form-box button:hover {
+      background: #4338ca;
+    }
+
+
+
